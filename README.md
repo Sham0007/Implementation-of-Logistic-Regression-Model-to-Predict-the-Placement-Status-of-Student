@@ -9,9 +9,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1. Import the required pakages and print the present data.
+
 2.print the placement data and salary data
+
 3.find the null and duplicate values
+
 4.using logistic regression find the predicted values of accuracy,confusion matrices
+
 5.Display the results. 
 
 ## Program:
